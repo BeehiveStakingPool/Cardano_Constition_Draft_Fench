@@ -1,0 +1,42 @@
+Une Constitution préliminaire pour Cardano
+
+Afin de promouvoir un système de blockchain équitable et sans permission connu sous le nom de Cardano, cette Constitution définit l'autorité et les limites du pouvoir accordé aux représentants élus de Cardano, y compris le Comité constitutionnel et les représentants des délégataires, ainsi que les détenteurs d'Ada qui choisissent de se représenter eux-mêmes.
+
+Les types d'actions suivants sont autorisés par les détenteurs d'Ada pour les représentants élus :
+
+	1.	Une motion de défiance pour mettre fin à toutes les activités de gouvernance.
+	2.	La formation d'un nouveau comité constitutionnel.
+	3.	Des changements à cette constitution par une majorité superqualifiée des détenteurs d'Ada actifs votant en faveur.
+	4.	Lancer une fourche dure (hard fork).
+	5.	Des changements aux paramètres de protocole affectant les paramètres de réseau, économiques, techniques et de gouvernance.
+	6.	Retraits du trésor.
+	7.	Publier des mémos pour la postérité sur la chaîne, connus sous le nom d'action Info.
+
+Les conditions suivantes s'appliquent à cette Constitution :
+
+	1.	Le comité constitutionnel sera composé d'au moins 17 membres humains, avec au moins 12 membres participants agissant comme une supermajorité requise pour exécuter toute action du comité constitutionnel. Parmi les 12 minimum, un vote majoritaire est décisif.
+	2.	Le corps des représentants des délégataires sera composé d'au moins 23 membres sans nombre maximal de représentants. Chaque seuil pour les actions énumérées ci-dessus sera défini séparément, et le seuil ne peut être modifié que par un vote supermajoritaire des représentants de la délégation et des détenteurs d'Ada.
+	3.	Le poids de l'Ada est le seul mécanisme utilisé pour déterminer le résultat d'un vote sur une action de gouvernance. Aucun autre actif natif ou tout mécanisme externe au réseau ne peut être utilisé. (Le poids de l'Ada peut être déterminé directement ou quadratiquement)
+	4.	Une action de gouvernance à égalité ne passe pas.
+	5.	Les détenteurs d'Ada sont libres de se représenter eux-mêmes.
+	6.	Les organisations autonomes décentralisées au sein de Cardano sont reconnues et peuvent se représenter elles-mêmes.
+	7.	La délégation de pouvoir de vote aux contrats intelligents est reconnue.
+	8.	Les retraits du trésor seront plafonnés à un maximum de 33 % jusqu'à ce que les réserves soient inférieures à 450 000 000 Ada ou à un pour cent de l'offre totale.
+	9.	Les propositions d'actions de gouvernance auront un montant de dépôt minimum de 10 000 Ada ou 0,000001 des réserves restantes. Le dépôt sera restitué lorsque l'action de gouvernance sera terminée ou expirée. 
+	10.	Tout détenteur d'Ada peut soumettre une action de gouvernance.
+
+Les types d'activités suivants sont restreints par cette constitution :
+	1.	La corruption visant à modifier le résultat d'une action de gouvernance, y compris la corruption utilisant Ada, tout autre jeton ou devise que l'Ada, et les faveurs spéciales ne sont pas autorisées.
+	2.	Le changement de paramètres techniques et de réseau qui entraîneront l'arrêt du système de blockchain Cardano n'est pas autorisé.
+	3.	L'approbation ou la désapprobation des actions de gouvernance en fonction de la volonté ou de la coercition des gouvernements nationaux et des États ou de toute autre entité n'est pas autorisée.
+	4.	Les clés de vote des représentants élus ne doivent pas être vendues ou données à une autre partie. Les clés de vote peuvent avoir des moyens de stockage et d'accès alternatifs uniquement dans le but de renforcer la sécurité opérationnelle.
+	5.	L'application des activités restreintes sera la suivante :
+	6.	Les représentants des délégués menant des activités restreintes verront leurs clés révoquées par le Comité constitutionnel.
+	7.	Les membres du Comité constitutionnel se soumettant à la corruption verront leurs clés révoquées par une majorité qualifiée des autres membres du comité.
+	8.	Les détenteurs d'Ada peuvent faire respecter leur volonté en utilisant un vote de défiance pour suspendre la gouvernance jusqu'à ce que les problèmes de gouvernance soient résolus.
+
+La gouvernance est décidée par ceux qui y participent. Les résultats du vote sur les actions de gouvernance seront déterminés par un seuil de comptage oui versus non, où les électeurs s'abstenant activement sont d'accord avec le résultat et comptent comme participants. Les électeurs qui ne prennent aucune mesure pour voter oui, non ou s'abstenir ne sont pas considérés comme des participants actifs et ne seront pas pris en compte dans la prise de décision.
+
+Signé,
+La majorité des détenteurs d'Ada
+(ce document est simplement la version préliminaire de Rick)
